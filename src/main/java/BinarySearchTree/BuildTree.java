@@ -1,8 +1,5 @@
 package BinarySearchTree;
 
-
-import java.util.Scanner;
-
 class BuildTree {
 
     public static Node TreeInsert(Node root, Node newNode) {
